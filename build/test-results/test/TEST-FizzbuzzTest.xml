@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FizzbuzzTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-23T14:29:01" hostname="MA372.broadband" time="0.048">
+<testsuite name="FizzbuzzTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-08-23T14:34:03" hostname="MA372.broadband" time="0.061">
   <properties/>
-  <testcase name="testGenerateListsNumbersAndFizzUpToThree()" classname="FizzbuzzTest" time="0.037"/>
-  <testcase name="testGenerateListsNumbersUpToOne()" classname="FizzbuzzTest" time="0.004"/>
+  <testcase name="testGenerateListsNumbersAndFizzBuzzUpToFifteen()" classname="FizzbuzzTest" time="0.049"/>
+  <testcase name="testGenerateListsNumbersAndFizzUpToThree()" classname="FizzbuzzTest" time="0.002"/>
+  <testcase name="testGenerateListsNumbersAndFizzBuzzUpToFive()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="testGenerateListsNumbersUpToOne()" classname="FizzbuzzTest" time="0.001"/>
   <testcase name="testGenerateListsNumbersUpToTwo()" classname="FizzbuzzTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
